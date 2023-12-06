@@ -12,3 +12,4 @@
 /Users/halvorsen/Documents/GetAcademy /emne3/StudentAdministration/students/obj/Debug/net8.0/students.pdb
 /Users/halvorsen/Documents/GetAcademy /emne3/StudentAdministration/students/obj/Debug/net8.0/students.genruntimeconfig.cache
 /Users/halvorsen/Documents/GetAcademy /emne3/StudentAdministration/students/obj/Debug/net8.0/ref/students.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/StudentAdministration/students/obj/Debug/net8.0/students.sourcelink.json

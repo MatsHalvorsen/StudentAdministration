@@ -1,6 +1,6 @@
 ﻿namespace students;
 
-public class Classes
+public class Class
 {
     public int ClassCode {get; set;}
     public string ClassName {get; set;}
